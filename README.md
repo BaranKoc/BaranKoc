@@ -25,8 +25,6 @@ Hi 👋, I'm Baran Koc</h1>
 - ⚡ Fun fact One: **I love boxing**
 - ⚡ Fun fact Two: **My website is work in progress... Sorry for the slowness**
 
-<br> </br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCfNzHoMysy4kO6eZ_rql8Ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfnzhomysy4ko6ez_rql8ng" height="30" width="40" /></a>
