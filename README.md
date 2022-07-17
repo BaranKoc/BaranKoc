@@ -6,8 +6,6 @@
 Hi 👋, I'm Baran Koc</h1>
 <h3 align="center">A passionate Web 3.0 developer</h3>
 
-<br> </br>
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
 - 🔭 I’m currently working on [My projects](http://barankoc.ga/projects)
