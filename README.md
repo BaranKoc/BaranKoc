@@ -27,6 +27,7 @@ Hi 👋, I'm Baran Koc</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/contactbarankoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="contactbarankoc" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCfNzHoMysy4kO6eZ_rql8Ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfnzhomysy4ko6ez_rql8ng" height="30" width="40" /></a>
 </p>
 
