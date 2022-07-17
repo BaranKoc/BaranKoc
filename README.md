@@ -1,8 +1,7 @@
 
-[![MasterHead](https://yt3.ggpht.com/XZm_haHI4fdCe7f9zAjdZNEBwABnrV60ygeOQNp_xkENnEmY--jTmLusq6_HwFiBnLO-vadISQ=s88-c-k-c0x00ffffff-no-rj-mo)](http://barankoc.ga)
 <h1 align="center">Hi 👋, I'm Baran Koc</h1>
 <h3 align="center">A passionate Web 3.0 developer</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
 - 🔭 I’m currently working on [My projects](http://barankoc.ga/projects)
 
