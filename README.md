@@ -13,8 +13,8 @@
 
 - 📄 Know about my experiences [http://barankoc.ga/about/](http://barankoc.ga/about/)
 
-- ⚡ Fun fact One **I love boxing**
-- ⚡ Fun fact Two **My web site is work in progress...
+- ⚡ Fun fact One: **I love boxing**
+- ⚡ Fun fact Two: **My web site is work in progress...
 Sorry for the slowness**
 
 <h3 align="left">Connect with me:</h3>
