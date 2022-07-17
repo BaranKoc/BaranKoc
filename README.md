@@ -1,10 +1,13 @@
 
 <h1 align="center">
 <a href="http://barankoc.ga/">
-<img align="left" alt="Coding" width="80" src="https://lh3.googleusercontent.com/kgmsGYSbldswte8wFteTkm_WXGt4aRHLtQBxJoymEDnLfpqXosAWenYbZQRJ59KY2JY10w=s90"> 
+<img align="center" alt="Coding" width="50" src="https://lh3.googleusercontent.com/kgmsGYSbldswte8wFteTkm_WXGt4aRHLtQBxJoymEDnLfpqXosAWenYbZQRJ59KY2JY10w=s90"> 
 </a>
 Hi 👋, I'm Baran Koc</h1>
 <h3 align="center">A passionate Web 3.0 developer</h3>
+
+<br> </br>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
 - 🔭 I’m currently working on [My projects](http://barankoc.ga/projects)
@@ -19,7 +22,10 @@ Hi 👋, I'm Baran Koc</h1>
 
 - 📄 Know about my experiences [http://barankoc.ga/about](http://barankoc.ga/about)
 
-- ⚡ Fun fact **I love boxing**
+- ⚡ Fun fact One: **I love boxing**
+- ⚡ Fun fact Two: **My website is work in progress... Sorry for the slowness**
+
+<br> </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
