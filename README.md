@@ -1,8 +1,5 @@
 
 <h1 align="center">
-<a href="http://barankoc.ga/">
-<img align="center" alt="Coding" width="50" src="https://lh3.googleusercontent.com/kgmsGYSbldswte8wFteTkm_WXGt4aRHLtQBxJoymEDnLfpqXosAWenYbZQRJ59KY2JY10w=s90"> 
-</a>
 Hi 👋, I'm Baran Koc</h1>
 <h3 align="center">A passionate Web 3.0 developer</h3>
 
