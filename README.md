@@ -12,12 +12,8 @@ Hi 👋, I'm Baran Koc</h1>
 
 - 💬 Ask me about **solidity, web3.js, web3.py...**
 
-- 📫 How to reach me **contactbarankoc@gmail.com**
+- 📫 How to reach me **barankoc269@gmail.com**
 
-- 📄 Know about my experiences [http://barankoc.ga/about](http://barankoc.ga/about)
-
-- ⚡ Fun fact One: **I love boxing**
-- ⚡ Fun fact Two: **My website is work in progress... Sorry for the slowness**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
