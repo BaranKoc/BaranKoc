@@ -12,7 +12,7 @@ Hi 👋, I'm Baran Koc</h1>
 
 - 💬 Ask me about **solidity, web3.js, web3.py...**
 
-- 📫 How to reach me **barankoc269@gmail.com**
+- 📫 How to reach me **contactbarankoc@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
