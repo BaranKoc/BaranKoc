@@ -4,11 +4,11 @@ Hi 👋, I'm Baran Koc</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
-- 🔭 I’m currently working on [My projects]([http://barankoc.ga/projects](https://github.com/BaranKoc?tab=repositories))
+- 🔭 I’m currently working on [My projects](https://github.com/BaranKoc?tab=repositories).
 
 - 🌱 I’m currently learning **Blockchain bug bounty...**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BaranKoc?tab=repositories)
+- 👨‍💻 All of my projects are available at [My GitHub repository](https://github.com/BaranKoc?tab=repositories)
 
 - 💬 Ask me about **solidity, web3.js, web3.py...**
 
