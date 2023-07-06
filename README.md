@@ -8,7 +8,7 @@ Hi 👋, I'm Baran Koc</h1>
 
 - 🌱 I’m currently learning **Blockchain bug bounty...**
 
-- 👨‍💻 All of my projects are available at [http://barankoc.ga/projects](http://barankoc.ga/projects)
+- 👨‍💻 All of my projects are available at [https://github.com/BaranKoc?tab=repositories)
 
 - 💬 Ask me about **solidity, web3.js, web3.py...**
 
