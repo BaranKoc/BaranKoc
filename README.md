@@ -2,6 +2,8 @@
 Hi 👋, I'm Baran Koc</h1>
 <h3 align="center">A passionate Web 3.0 developer</h3>
 
+<br/>
+
 - 🔭 I’m currently working on [My projects](https://github.com/BaranKoc?tab=repositories).
 
 - 🌱 I’m currently learning **Blockchain bug bounty...**
