@@ -8,8 +8,6 @@
   <p align="center">
 Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text
 
-<br/>
-
 - 🔭 I’m currently working on [My projects](https://github.com/BaranKoc?tab=repositories).
 
 - 🌱 I’m currently learning **Blockchain bug bounty...**
