@@ -2,7 +2,6 @@
   <a href="">
     <img src="https://www.dl.dropboxusercontent.com/s/yr0ykl9ykmbww5i/B-icon.png?dl=0" alt="Logo" width="60" height="80">
   </a>
-
 <h3 align="center">Hi 👋, I'm Baran Koc</h3>
 
   <p align="center">
