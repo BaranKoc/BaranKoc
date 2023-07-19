@@ -1,6 +1,12 @@
-<h1 align="center">
-Hi 👋, I'm Baran Koc</h1>
-<h3 align="center">A passionate Web 3.0 developer</h3>
+<div align="center">
+  <a href="">
+    <img src="https://www.dl.dropboxusercontent.com/s/yr0ykl9ykmbww5i/B-icon.png?dl=0" alt="Logo" width="600" height="80">
+  </a>
+
+<h3 align="center">Hi 👋, I'm Baran Koc</h3>
+
+  <p align="center">
+Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text
 
 <br/>
 
