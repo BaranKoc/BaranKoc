@@ -3,8 +3,7 @@
     <img src="https://www.dl.dropboxusercontent.com/s/yr0ykl9ykmbww5i/B-icon.png?dl=0" alt="Logo" width="60" height="60">
   </a>
 <h3 align="center">Hi 👋, I'm Baran Koc</h3>
-
-  <p align="center">
+<p align="center">
 Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text-Text
 
 - 🔭 I’m currently working on [My projects](https://github.com/BaranKoc?tab=repositories).
